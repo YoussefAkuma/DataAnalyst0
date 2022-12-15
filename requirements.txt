@@ -2,8 +2,15 @@ numpy
 pandas
 matplotlib.pyplot
 seaborn
+datetime
+timedelta
+warnings
+os
 plotly.graph_objs
 plotly.offline
+download_plotlyjs
+init_notebook_mode
+plot
+iplot
 plotly.express
-datetime
-os
+
