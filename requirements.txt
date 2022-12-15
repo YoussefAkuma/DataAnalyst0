@@ -1,16 +1,14 @@
 numpy
 pandas
-matplotlib.pyplot
+matplotlib
 seaborn
 datetime
 timedelta
 warnings
 os
-plotly.graph_objs
-plotly.offline
+plotly
 download_plotlyjs
 init_notebook_mode
 plot
 iplot
-plotly.express
 
